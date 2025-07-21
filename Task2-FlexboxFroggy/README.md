@@ -1,6 +1,6 @@
 # 🐸 Flexbox Froggy Challenge – Completed All 24 Levels!
 
-Welcome to my **Flexbox Froggy Challenge** repository! This project showcases my journey through all **24 levels** of the interactive game **Flexbox Froggy**, designed to teach and reinforce core **CSS Flexbox** concepts in a fun and visual way.
+Welcome to my **Flexbox Froggy Challenge** repository! This task showcases my journey through all **24 levels** of the interactive game **Flexbox Froggy**, designed to teach and reinforce core **CSS Flexbox** concepts in a fun and visual way.
 
 ---
 
